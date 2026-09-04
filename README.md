@@ -36,3 +36,5 @@ Open <http://localhost:8000>.
 
 `AGENTS.md` lists the reference guides bundled with the compiler; read them
 before writing Jac — the syntax is easy to confuse with Python or JSX.
+
+Auto-deploy verified end to end from the wizard opt-in (2026-09-04T08:58:35Z).
